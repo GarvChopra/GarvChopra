@@ -26,9 +26,11 @@ A game project where I’m working on gameplay logic, mechanics, and overall sys
 
 ### 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+### 📊 Stats
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GarvChopra&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=GarvChopra&theme=tokyonight)
 
 ---
 
