@@ -19,7 +19,7 @@ A game project where I’m working on gameplay logic, mechanics, and overall sys
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Practice-blue?style=for-the-badge)
 ![Web Dev](https://img.shields.io/badge/Web-Development-orange?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Basics-green?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-Language-lightgrey?style=for-the-badge)
 
 ---
