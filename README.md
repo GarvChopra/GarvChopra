@@ -7,12 +7,14 @@ If an idea comes to mind, I build it, refine it, and ship it.
 
 ---
 
-### 🚀 Current Focus
+###  Current Focus
 
-👉 **Shadow Dungeon Game**  
+ **Shadow Dungeon Game**  
 A game project where I’m working on gameplay logic, mechanics, and overall system design.
 
 ---
+
+ Live Website: https://garvchopra.github.io
 
 ### 🛠️ Tech Stack
 
@@ -24,9 +26,9 @@ A game project where I’m working on gameplay logic, mechanics, and overall sys
 
 ---
 
-### 📊 Stats
+###  Stats
 
-### 📊 Stats
+### Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GarvChopra&show_icons=true&theme=tokyonight)
 
@@ -34,25 +36,25 @@ A game project where I’m working on gameplay logic, mechanics, and overall sys
 
 ---
 
-### 🧠 DSA Progress
+###  DSA Progress
 
-- ✅ Solved **160+ problems on LeetCode**
-- 📈 Continuously improving problem-solving skills
-
----
-
-### 💡 About Me
-
-- 💻 I love coding and building projects  
-- ⚡ I believe in fast execution ("vibe coding")  
-- 🧠 Strong focus on Java & DSA  
-- 🏋️ Into gym & fitness  
+-  Solved **160+ problems on LeetCode**
+- Continuously improving problem-solving skills
 
 ---
 
-### 📫 Contact
+###  About Me
 
-📧 **garvchopra0810@gmail.com**
+-  I love coding and building projects  
+-  I believe in fast execution ("vibe coding")  
+-  Strong focus on Java & DSA  
+-  Into gym & fitness  
+
+---
+
+###  Contact
+
+ **garvchopra0810@gmail.com**
 
 ---
 
