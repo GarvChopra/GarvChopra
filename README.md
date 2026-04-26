@@ -1,4 +1,4 @@
-## 👋 Hey there!
+##Hey there!
 
 I'm **Garv Chopra**, a developer who loves turning ideas into real, working projects.
 
@@ -58,4 +58,4 @@ A game project where I’m working on gameplay logic, mechanics, and overall sys
 
 ---
 
-⭐ *Always building. Always learning.*
+ *Always building. Always learning.*
