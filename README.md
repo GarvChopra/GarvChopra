@@ -14,7 +14,7 @@ A game project where I’m working on gameplay logic, mechanics, and overall sys
 
 ---
 
- Live Website: https://garvchopra.github.io
+ Portfolio Website: https://garvchopra.github.io
 
 ### 🛠️ Tech Stack
 
