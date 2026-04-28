@@ -1,6 +1,7 @@
 ##Hey there!
 
 I'm **Garv Chopra**, a developer who loves turning ideas into real, working projects.
+
 I primarily work with **Java**, focusing on building efficient systems and solving problems through code.  
 If an idea comes to mind, I build it, refine it, and ship it.
 --
