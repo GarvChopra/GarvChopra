@@ -1,12 +1,9 @@
 ##Hey there!
 
 I'm **Garv Chopra**, a developer who loves turning ideas into real, working projects.
-
 I primarily work with **Java**, focusing on building efficient systems and solving problems through code.  
 If an idea comes to mind, I build it, refine it, and ship it.
-
----
-
+--
 ###  Current Focus
 
  **Shadow Dungeon Game**  
@@ -25,21 +22,11 @@ A game project where I’m working on gameplay logic, mechanics, and overall sys
 ![C](https://img.shields.io/badge/C-Language-lightgrey?style=for-the-badge)
 
 ---
-
-###  Stats
-
 ### Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GarvChopra&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=GarvChopra&theme=tokyonight)
-
----
-
-###  DSA Progress
-
--  Solved **160+ problems on LeetCode**
-- Continuously improving problem-solving skills
 
 ---
 
