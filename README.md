@@ -1,177 +1,138 @@
 <div align="center">
 
-<a href="https://garvchopra.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=16D97B&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Garv+Chopra+%E2%9A%A1;Builder.+Shipper.+Vibe+coder.;Always+building.+Always+learning." alt="Typing SVG" />
-</a>
+# Garv Chopra
 
-<br/>
+**Software Engineer · Builder · Delhi, India**
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=GarvChopra&label=Profile%20views&color=16d97b&style=flat-square" alt="views" />
-  <a href="https://github.com/GarvChopra?tab=followers">
-    <img src="https://img.shields.io/github/followers/GarvChopra?label=Followers&style=flat-square&color=16d97b" alt="followers" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20AI%20%7C%20Full--Stack-16d97b?style=flat-square" alt="focus" />
-  <img src="https://img.shields.io/badge/Location-Delhi%2C%20IN-16d97b?style=flat-square" alt="location" />
-</p>
+<a href="https://garvchopra.github.io"><img src="https://img.shields.io/badge/Portfolio-garvchopra.github.io-0a0a0a?style=flat-square&labelColor=0a0a0a" /></a>
+<a href="mailto:garvchopra0810@gmail.com"><img src="https://img.shields.io/badge/Email-garvchopra0810%40gmail.com-EA4335?style=flat-square&labelColor=0a0a0a" /></a>
+<a href="https://github.com/GarvChopra"><img src="https://img.shields.io/badge/GitHub-GarvChopra-181717?style=flat-square&labelColor=0a0a0a" /></a>
 
 </div>
 
----
+<br>
 
-### 🧠 About
-
-I build things fast. Some of them break. Most of them ship.
-
-- 🛠 Full-stack developer — **Java, Python, JavaScript**
-- 🤖 Currently obsessed with **AI integrations** (Groq, vision models, agentic workflows)
-- 🎮 Building a game engine on the side just because
-- 🏋️ Gym, code, repeat
-- 📍 Delhi, India
-
-> *"If an idea comes to mind, I build it, refine it, and ship it."*
+I write production software end-to-end — from data model to deployed UI. I work primarily in **Java** and **Python**, and I'm currently focused on the intersection of applied AI and civic systems. I care about systems that ship, not slides that explain why they didn't.
 
 ---
 
-### 🚀 Currently Building
+### Focus Areas
+
+- **Backend systems** — Flask APIs, REST design, authentication, file handling, third-party integrations
+- **Applied AI** — vision models for classification, LLM prompt engineering, retrieval, agentic workflows
+- **Geospatial software** — interactive maps, GPS pipelines, location intelligence
+- **Data structures & algorithms** — daily practice, problem-solving rigor
+
+---
+
+### Selected Work
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td width="50%" valign="top">
 
-#### 🗺️ [AreaPulse](https://github.com/GarvChopra/Areapulse-Gemma4)
-**AI-powered civic issue reporting platform for Delhi**
+#### AreaPulse
+*Map-first civic intelligence platform · Active*
 
-- 🧠 Groq Llama-4 Scout vision auto-classifies issues from photos (68% human → 92% AI accuracy)
-- 📱 Multi-channel: web map, AR camera, WhatsApp bot
-- 🔥 Real-time Firebase + Leaflet/MapTiler
-- 📧 AI drafts complaint letters → Resend dispatches to authorities
-- 🎯 Built for **SIH 2025** — addresses CAG's findings on Jharkhand civic gaps
+A real-time platform where citizens report civic issues by photo, WhatsApp, or AR camera scan. Groq Llama-4 Scout vision auto-classifies the issue, GPS-pins it, routes it to the responsible authority, and lets AI draft a formal complaint letter dispatched via Resend.
 
-`Flask` · `Groq AI` · `Firebase` · `Twilio` · `MapTiler`
+- AI vision classification raised tag accuracy from 68% (manual) to 92%
+- Three independent ingestion channels: web, WhatsApp webhook, AR scanner
+- Auto-routing to MCD / PWD / DJB / BSES with NGO fallback
+- Built for **Smart India Hackathon 2025**
 
-</td>
-<td width="50%" valign="top">
+**Stack:** Python · Flask · Groq AI · Firebase Firestore · Twilio · Leaflet · MapTiler · Resend · Gunicorn
 
-#### ⚔️ Shadow Dungeon
-**Java-based dungeon crawler with original mechanics**
+[Repository →](https://github.com/GarvChopra/Areapulse-Gemma4)
 
-- 🎮 Custom game loop, entity component system
-- 🗡️ Combat mechanics, procedural rooms
-- 🧱 Built ground-up in Java — no engine
-- 📐 Focus on gameplay feel & system design
+</td><td width="50%" valign="top">
 
-`Java` · `Swing` · `Game Dev`
+#### Shadow Dungeon
+*2D action game engine · In development*
 
-</td>
-</tr>
+Java-based dungeon crawler built ground-up without an existing engine. Custom game loop, entity-component-style architecture, procedural room generation, and combat mechanics designed around gameplay feel.
+
+- Pure Java + Swing rendering pipeline
+- Original combat and progression systems
+- Focus on system design over feature count
+
+**Stack:** Java · Swing · OOP design patterns
+
+</td></tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack
-
-<div align="center">
+### Technical Skills
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
-**Frameworks & Runtime**
+**Backend & Frameworks**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-25A162?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white" />
 
-**AI & APIs**
+**AI / ML Integration**
 
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=lightning&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama--4-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Llama_4_Scout-0467DF?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Vision_Models-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square" />
 
-**Cloud, Data & Tools**
+**Data, Cloud & Tooling**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![MapTiler](https://img.shields.io/badge/MapTiler-0E3F61?style=for-the-badge&logo=maptiler&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+
+**External APIs Worked With**
+
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+<img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" />
+<img src="https://img.shields.io/badge/MapTiler-0E3F61?style=flat-square&logo=maptiler&logoColor=white" />
+<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+
+---
+
+### Engineering Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GarvChopra&show_icons=true&hide=issues&theme=transparent&hide_border=true&title_color=0a0a0a&text_color=333&icon_color=0a0a0a&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GarvChopra&theme=transparent&hide_border=true&ring=0a0a0a&fire=0a0a0a&currStreakNum=0a0a0a&dates=666&sideNums=0a0a0a&sideLabels=333&currStreakLabel=0a0a0a" />
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### Engineering Principles
 
-<div align="center">
+> **Build small. Ship fast. Iterate ruthlessly.**
+> Production reality beats whiteboard theory. The codebase that boots and serves a real user is worth more than the perfect design that never leaves the doc.
 
-<a href="https://github.com/GarvChopra">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GarvChopra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=16d97b&title_color=16d97b" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GarvChopra&theme=tokyonight&hide_border=true&background=0d1117&ring=16d97b&fire=16d97b&currStreakLabel=16d97b" />
-</a>
+> **Read the error message. Then read it again.**
+> Most "impossible" bugs are precisely what the stack trace already said.
 
-<br/>
-
-<a href="https://github.com/GarvChopra">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvChopra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=16d97b&langs_count=8" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GarvChopra&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/GarvChopra">
-    <img src="https://raw.githubusercontent.com/GarvChopra/GarvChopra/output/snake.svg" alt="Snake animation" />
-  </a>
-</div>
+> **Working before pretty. Pretty before clever.**
+> Clever code without working code is just decoration on a broken thing.
 
 ---
 
-### 🧭 Philosophy
-
-```text
-1. Build first. Polish later. Ship before you're "ready".
-2. Read the error message. Then read it again.
-3. Working > perfect.
-4. The best way to learn a stack is to break it.
-```
-
----
-
-### 📫 Reach Out
-
 <div align="center">
 
-<a href="https://garvchopra.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-16d97b?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="mailto:garvchopra0810@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/GarvChopra">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<sub>Open to internship and full-time opportunities in software engineering, applied AI, and backend systems.</sub>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <i>Always building. Always learning. Always shipping.</i>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=16d97b&height=80&section=footer" width="100%"/>
 </div>
