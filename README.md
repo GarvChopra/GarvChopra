@@ -2,7 +2,7 @@
 
 # Garv Chopra
 
-**Software Engineer · Builder · Delhi, India**
+** Builder · Delhi, India**
 
 <a href="https://garvchopra.github.io"><img src="https://img.shields.io/badge/Portfolio-garvchopra.github.io-0a0a0a?style=flat-square&labelColor=0a0a0a" /></a>
 <a href="mailto:garvchopra0810@gmail.com"><img src="https://img.shields.io/badge/Email-garvchopra0810%40gmail.com-EA4335?style=flat-square&labelColor=0a0a0a" /></a>
