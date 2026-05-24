@@ -30,21 +30,7 @@ I write production software end-to-end — from data model to deployed UI. I wor
 <table>
 <tr><td width="50%" valign="top">
 
-#### AreaPulse
-*Map-first civic intelligence platform · Active*
 
-A real-time platform where citizens report civic issues by photo, WhatsApp, or AR camera scan. Groq Llama-4 Scout vision auto-classifies the issue, GPS-pins it, routes it to the responsible authority, and lets AI draft a formal complaint letter dispatched via Resend.
-
-- AI vision classification raised tag accuracy from 68% (manual) to 92%
-- Three independent ingestion channels: web, WhatsApp webhook, AR scanner
-- Auto-routing to MCD / PWD / DJB / BSES with NGO fallback
-- Built for **Smart India Hackathon 2025**
-
-**Stack:** Python · Flask · Groq AI · Firebase Firestore · Twilio · Leaflet · MapTiler · Resend · Gunicorn
-
-[Repository →](https://github.com/GarvChopra/Areapulse-Gemma4)
-
-</td><td width="50%" valign="top">
 
 #### Shadow Dungeon
 *2D action game engine · In development*
