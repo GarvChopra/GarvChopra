@@ -2,7 +2,7 @@
 
 # Garv Chopra
 
-** Builder · Delhi, India**
+**Builder · Delhi, India**
 
 <a href="https://garvchopra.github.io"><img src="https://img.shields.io/badge/Portfolio-garvchopra.github.io-0a0a0a?style=flat-square&labelColor=0a0a0a" /></a>
 <a href="mailto:garvchopra0810@gmail.com"><img src="https://img.shields.io/badge/Email-garvchopra0810%40gmail.com-EA4335?style=flat-square&labelColor=0a0a0a" /></a>
@@ -12,13 +12,14 @@
 
 <br>
 
-I write production software end-to-end — from data model to deployed UI. I work primarily in **Java** and **Python**, and I'm currently focused on the intersection of applied AI and civic systems. I care about systems that ship, not slides that explain why they didn't.
+I write production software end-to-end — from data model to deployed UI. I work primarily in **Java**, **Python**, and **React**, and I'm currently focused on the intersection of applied AI and civic systems. I care about systems that ship, not slides that explain why they didn't.
 
 ---
 
 ### Focus Areas
 
 - **Backend systems** — Flask APIs, REST design, authentication, file handling, third-party integrations
+- **Frontend engineering** — React, interactive UIs, real-time dashboards, geospatial interfaces
 - **Applied AI** — vision models for classification, LLM prompt engineering, retrieval, agentic workflows
 - **Geospatial software** — interactive maps, GPS pipelines, location intelligence
 - **Data structures & algorithms** — daily practice, problem-solving rigor
@@ -29,8 +30,6 @@ I write production software end-to-end — from data model to deployed UI. I wor
 
 <table>
 <tr><td width="50%" valign="top">
-
-
 
 #### Shadow Dungeon
 *2D action game engine · In development*
@@ -43,6 +42,19 @@ Java-based dungeon crawler built ground-up without an existing engine. Custom ga
 
 **Stack:** Java · Swing · OOP design patterns
 
+</td><td width="50%" valign="top">
+
+#### AreaPulse
+*AI-powered civic infrastructure platform · QuantCraft 2026 Top 10*
+
+Unified platform connecting citizens, government officials, and NGOs on a single live map. 5-second AR camera reporting, WhatsApp bot for rural users, AI auto-classification, SLA tracking, and gov/NGO dashboards.
+
+- Flask backend with Postgres + Firebase fallback
+- Groq Llama-4-Scout vision pipeline
+- Live deployment on Render with WhatsApp + email integration
+
+**Stack:** Python · Flask · React · Neon Postgres · Groq · Twilio
+
 </td></tr>
 </table>
 
@@ -50,9 +62,9 @@ Java-based dungeon crawler built ground-up without an existing engine. Custom ga
 
 ### Technical Skills
 
-**Languages**
+**Languages & Frameworks**
 
-<p><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></p>
 
 **Backend & Frameworks**
 
@@ -62,9 +74,13 @@ Java-based dungeon crawler built ground-up without an existing engine. Custom ga
 
 <p><img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Llama_4_Scout-0467DF?style=for-the-badge&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/Vision_Models-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge" /></p>
 
-**Cloud, Data & Tooling**
+**Databases**
 
-<p><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Neon_DB-00E599?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=00342C" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></p>
+
+**Cloud & Tooling**
+
+<p><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></p>
 
 **External APIs**
 
@@ -76,8 +92,8 @@ Java-based dungeon crawler built ground-up without an existing engine. Custom ga
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GarvChopra&show_icons=true&hide=issues&theme=transparent&hide_border=true&title_color=0a0a0a&text_color=333&icon_color=0a0a0a&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GarvChopra&theme=transparent&hide_border=true&ring=0a0a0a&fire=0a0a0a&currStreakNum=0a0a0a&dates=666&sideNums=0a0a0a&sideLabels=333&currStreakLabel=0a0a0a" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GarvChopra&show_icons=true&hide=issues&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvChopra&layout=compact&theme=default&hide_border=true&langs_count=8" />
 
 </div>
 
