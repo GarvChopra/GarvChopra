@@ -92,12 +92,14 @@ Unified platform connecting citizens, government officials, and NGOs on a single
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GarvChopra&show_icons=true&hide=issues&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvChopra&layout=compact&theme=default&hide_border=true&langs_count=8" />
+<a href="https://github.com/GarvChopra">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GarvChopra&show_icons=true&hide=issues&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+</a>
+<a href="https://github.com/GarvChopra">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GarvChopra&layout=compact&theme=default&hide_border=true&langs_count=8" />
+</a>
 
 </div>
-
----
 
 ### Engineering Principles
 
