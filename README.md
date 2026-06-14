@@ -44,16 +44,6 @@ Java-based dungeon crawler built ground-up without an existing engine. Custom ga
 
 </td><td width="50%" valign="top">
 
-#### AreaPulse
-*AI-powered civic infrastructure platform *
-
-Unified platform connecting citizens, government officials, and NGOs on a single live map. 5-second AR camera reporting, WhatsApp bot for rural users, AI auto-classification, SLA tracking, and gov/NGO dashboards.
-
-- Flask backend with Postgres + Firebase fallback
-- Groq Llama-4-Scout vision pipeline
-- Live deployment on Render with WhatsApp + email integration
-
-**Stack:** Python · Flask · React · Neon Postgres · Groq · Twilio
 
 </td></tr>
 </table>
