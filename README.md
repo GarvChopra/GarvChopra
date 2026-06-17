@@ -44,19 +44,17 @@ Java-based dungeon crawler built ground-up without an existing engine. Custom ga
 
 </td><td width="50%" valign="top">
 
-#### AreaPulse
-*AI-powered civic intelligence platform · Live*
+#### Food Delivery App
+*Full-stack web app · In development*
 
-Full-stack civic issue reporting platform connecting citizens, government officers, and NGOs on one live map. Built for India's 40M annual civic complaints.
+A food delivery platform built with React and Node.js, allowing users to browse restaurants, manage carts, and place orders.
 
-- AR Camera reporting in 5 seconds, WhatsApp Bot (zero app install), Map Tap
-- Groq Llama-4-Scout 17B vision AI — classification, severity scoring, spam detection, duplicate merging
-- Government SLA dashboard with auto-escalation, NGO intelligence layer
-- Neon PostgreSQL + Firebase Firestore dual database, Twilio WhatsApp notifications
+- React + Vite frontend with dynamic menu browsing
+- Node.js + Express REST API backend
+- User authentication and order management
+- Cart system with real-time updates
 
-**Stack:** Python · Flask · Groq AI · Neon PostgreSQL · Firebase · MapTiler · Twilio · Render
-
-[Live →](https://areapulse.onrender.com)
+**Stack:** React · Vite · Node.js · Express · MongoDB
 
 </td></tr>
 </table>
