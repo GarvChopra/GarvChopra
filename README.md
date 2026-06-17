@@ -54,7 +54,7 @@ A food delivery platform built with React and Node.js, allowing users to browse 
 - User authentication and order management
 - Cart system with real-time updates
 
-**Stack:** React · Vite · Node.js · Express · MongoDB
+**Stack:** React · Vite · Node.js · Express · postgres(Neon)
 
 </td></tr>
 </table>
