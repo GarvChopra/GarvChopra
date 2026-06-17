@@ -45,8 +45,23 @@ Java-based dungeon crawler built ground-up without an existing engine. Custom ga
 </td><td width="50%" valign="top">
 
 
+</td><td width="50%" valign="top">
+
+#### AreaPulse
+*AI-powered civic intelligence platform · Live*
+
+Full-stack civic issue reporting platform connecting citizens, government officers, and NGOs on one live map. Built for India's 40M annual civic complaints.
+
+- AR Camera reporting in 5 seconds, WhatsApp Bot (zero app install), Map Tap
+- Groq Llama-4-Scout 17B vision AI — classification, severity scoring, spam detection, duplicate merging
+- Government SLA dashboard with auto-escalation, NGO intelligence layer
+- Neon PostgreSQL + Firebase Firestore dual database, Twilio WhatsApp notifications
+
+**Stack:** Python · Flask · Groq AI · Neon PostgreSQL · Firebase · MapTiler · Twilio · Render
+
+[Live →](https://areapulse.onrender.com)
+
 </td></tr>
-</table>
 
 ---
 
