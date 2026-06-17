@@ -44,9 +44,6 @@ Java-based dungeon crawler built ground-up without an existing engine. Custom ga
 
 </td><td width="50%" valign="top">
 
-
-</td><td width="50%" valign="top">
-
 #### AreaPulse
 *AI-powered civic intelligence platform · Live*
 
@@ -62,6 +59,7 @@ Full-stack civic issue reporting platform connecting citizens, government office
 [Live →](https://areapulse.onrender.com)
 
 </td></tr>
+</table>
 
 ---
 
